@@ -1,0 +1,5 @@
+selenium
+pandas
+beautifulsoup4
+openpyxl
+html2text
