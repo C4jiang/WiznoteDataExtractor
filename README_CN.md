@@ -6,10 +6,7 @@
 
 ## 功能特点
 
-<video width="1280" height="720" controls>
-  <source src="WiznoteExtractor.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![WiznoteExtractor](WiznoteExtractor.mp4)
 
 - 提取笔记标题、内容、标签和最后修改日期
 - 将HTML内容转换为Markdown格式

@@ -6,10 +6,7 @@ A tool for extracting and saving notes from Wiznote (note.wiz.cn) as Markdown fi
 
 ## Features
 
-<video width="1280" height="720" controls>
-  <source src="WiznoteExtractor.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![WiznoteExtractor](WiznoteExtractor.mp4)
 
 - Extracts note title, content, tags, and last modified date
 - Converts HTML content to Markdown format
