@@ -6,7 +6,7 @@ A tool for extracting and saving notes from Wiznote (note.wiz.cn) as Markdown fi
 
 ## Features
 
-![WiznoteExtractor](https://github.com/user-attachments/assets/890296f7-cab3-4edd-ad3b-40d03f2f14d5)
+https://github.com/user-attachments/assets/2afdbc42-0811-4b8d-a9bd-6c3f9d5cb56e
 
 - Extracts note title, content, tags, and last modified date
 - Converts HTML content to Markdown format
