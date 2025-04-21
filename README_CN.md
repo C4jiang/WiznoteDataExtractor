@@ -6,7 +6,7 @@
 
 ## 功能特点
 
-![WiznoteExtractor](https://github.com/user-attachments/assets/890296f7-cab3-4edd-ad3b-40d03f2f14d5)
+https://github.com/user-attachments/assets/2afdbc42-0811-4b8d-a9bd-6c3f9d5cb56e
 
 - 提取笔记标题、内容、标签和最后修改日期
 - 将HTML内容转换为Markdown格式
